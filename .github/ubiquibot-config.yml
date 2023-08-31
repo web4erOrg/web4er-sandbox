@@ -6,4 +6,4 @@ default-labels:
   
 enable-access-control:
   label: false
-  organization: false
+  organization: true
