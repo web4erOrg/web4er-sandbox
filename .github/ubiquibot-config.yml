@@ -5,5 +5,5 @@ default-labels:
   - "Priority: 1 (Normal)"
   
 enable-access-control:
-  - label: true
-  - organization: true
+  label: true
+  organization: true
